@@ -17,7 +17,6 @@ RegisterUserRequest.prototype.init = function(){
     this.fullName = new StringField(true);
     this.password = new StringField(true);
     this.description = new StringField(true);
-    this.date = new StringField(true);
     ValidatableObject.prototype.init.apply(this, arguments);
 };
 
