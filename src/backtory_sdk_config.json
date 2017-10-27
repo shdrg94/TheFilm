@@ -1,0 +1,21 @@
+{
+    "integratedMasterKey": "067990229bf747beb0105319",
+    "integratedInstances": [
+        {
+            "id": "59f2d865e4b0edcca340a06d",
+            "type": "auth"
+        },
+        {
+            "id": "59f2d865e4b03ffa033021e2",
+            "type": "object-storage"
+        },
+        {
+            "id": "59f2d866e4b03ffa033021e7",
+            "type": "lambda"
+        },
+        {
+            "id": "59f2d865e4b03ffa033021e2",
+            "type": "cdn"
+        }
+    ]
+}
